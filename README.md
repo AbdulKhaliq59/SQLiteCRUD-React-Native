@@ -48,26 +48,17 @@ This Project consists of a User Registration App, with the basic functionalities
   - Have Expo Go Installed on your Mobile Phone
 
 ```bash
-# Clone este repositório
-$ git clone https://github.com/brunoemferreira/CRUDReactNativeSQLite.git
 
-# Acesse a pasta do Projeto
-$ cd CRUDReactNativeSQLite
+- `git clone` `https://github.com/AbdulKhaliq59/SQLiteCRUD-React-Native.git`
 
-# Baixar as dependências
-$ yarn install
-ou
-$ npm install
+- cd SQLiteCRUD-React-Native
 
-# execute o comando
-$ yarn start
-ou
-$ npm start
+- `npm install`
+
+- `npm start`
 
 # Expo is started on the PC using the browser and after this process access the cell phone and run the expo
 # and read the QRCode that is shown on the bowser by Expo.
 ```
 
----
-
-⌨️ with ❤️ by [KANANURA Abdoul Khaliq](https://gist.github.com/brunoemferreira) 😊
+⌨️ with ❤️ by [KANANURA Abdoul Khaliq](https://github.com/AbdulKhaliq59) 😊
