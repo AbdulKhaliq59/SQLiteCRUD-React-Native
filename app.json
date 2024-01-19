@@ -25,6 +25,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9a05f68a-a0d1-4ddc-b25f-7c8ff55f260b"
+      }
+    },
+    "owner": "abdoulkhaliq59",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/117c6e6a-e6f2-4937-9aad-621423cd7077"
     }
   }
 }
